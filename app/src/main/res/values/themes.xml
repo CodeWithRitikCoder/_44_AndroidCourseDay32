@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WallpaperScreenApp1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#B67BDD</item>
+         <item name="colorPrimaryVariant">#B67BDD</item>
+         <item name="android:statusBarColor">#B67BDD</item>
+    </style>
+
+    <style name="Theme.WallpaperScreenApp1" parent="Base.Theme.WalpaperScreenApp1" />
+</resources>

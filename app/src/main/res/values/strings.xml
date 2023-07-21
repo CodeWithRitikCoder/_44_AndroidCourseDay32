@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wallpaper RC</string>
+    <string name="set_as_wallpaper">Set As Wallpaper</string>
+    <string name="wallpaper_seted_successfully">Wallpaper Seted Successfully</string>
+    <string name="ok">OK</string>
+</resources>
