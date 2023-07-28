@@ -14,6 +14,6 @@ class WelcomeActivity : AppCompatActivity() {
         Handler().postDelayed({
             startActivity(Intent(this@WelcomeActivity, WallpaperActivity::class.java))
             finish()
-        }, 2000)
+        }, 1000)
     }
 }
